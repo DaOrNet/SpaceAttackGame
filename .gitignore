@@ -1,0 +1,32 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+Assets/Scenes/Test_ effex.unity
+Builds/
+Assets/StreamingAssets/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+*.apk
+*.opensdf
+*.sdf
+*.DotSettings
+*.apk
+
+.idea/
+.vs/
+ProjectSettings/ProjectSettings\.asset
